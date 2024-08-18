@@ -1,2 +1,1 @@
-# WorkoutPal_Official
 # WorkoutPal
